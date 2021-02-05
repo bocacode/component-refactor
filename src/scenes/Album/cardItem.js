@@ -36,7 +36,7 @@ function CardItem({ card }) {
           />
           <CardContent className={classes.cardContent}>
             <Typography gutterBottom variant="h5" component="h2">
-              Heading
+              Photo Heading
             </Typography>
             <Typography>
               This is a media card. You can use this section to describe the content.
